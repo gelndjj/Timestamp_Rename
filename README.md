@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gelndjj/Timestamp-Rename">
-    <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/image.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Timestamp Rename</h3>
@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](https://github.com/gelndjj/Timestamp-Rename/blob/main/screen.png)
+![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png)
 
 Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much. So, I wrote this small python script that allows me to rename files according to the Creation Date present in the metadata file.
 

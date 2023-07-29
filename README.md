@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gelndjj/Timestamp-Rename">
-    <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/image.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Timestamp Rename</h3>

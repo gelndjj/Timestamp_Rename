@@ -64,13 +64,13 @@
 ## About The Project
 
 ![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png)
+
 Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much. 
-![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files.png)
+
 So, I wrote this small python script that allows me to rename files according to the Creation Date present in the metadata file.
 Of course, there is a bunch of software that do the same out there and actually I use the built-in function renaming in Lightoom since ages ago but only for pictures. 
 
 As I sort out my drones videos' files in the finder, I wanted a soft that could do the job for me in no time.
-![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files_sort.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

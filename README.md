@@ -43,19 +43,11 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -84,9 +76,7 @@ But, as I sort out my drones videos' files in the finder, I wanted a soft that c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
+## Built With
 
 <a href="https://www.python.org">
 <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/py_icon.png" alt="Icon" width="32" height="32">
@@ -98,41 +88,28 @@ But, as I sort out my drones videos' files in the finder, I wanted a soft that c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-In progress
-
-### Prerequisites
-
-In progress
-
-
-### Installation
-
-In progress
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-In progress
+Rename video files using the timestamp YYYYMMDD_HHMMSS which stand for "Year Month Day _ Hour Minute Second".
+</br>
+The "Create Folder by Day" checkbox put the files inside folder according to the day. 
+</br>
+</br>
 
+https://github.com/gelndjj/Timestamp_Rename/assets/81557672/80c9db3d-292e-4a8b-ada2-d4943ff1fd6f
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- GETTING STARTED -->
+## Standalone APP
 
-In progress
-
-See the [open issues](https://github.com/gelndjj/Timestamp-Rename/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Install pyintaller
+```
+pip install pyinstaller
+```
+Generate the standalone app
+```
+pyinstaller --onefile your_script_name.py
+```
 
 
 <!-- CONTRIBUTING -->
@@ -169,16 +146,6 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more inf
 [LinkedIn](https://github.com/gelndjj/Timestamp-Rename)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-In progress
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

@@ -65,7 +65,7 @@
 
 ![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png)
 
-<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="80" height="80">
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="160" height="160">
 
 Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much.
 </br> 

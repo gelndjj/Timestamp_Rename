@@ -62,16 +62,24 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png)
-
+<div align="center">
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="600" height="600">
+</br>
 Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much.
 </br> 
-
-So, I wrote this small python script that allows me to rename files according to the Creation Date present in the metadata file.
+</br>
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files.png" alt="Screenshot" width="480" height="320">
+</br>
+</br>
+So, I wrote a small python script that allows me to rename files according to the Creation Date present in the metadata.
 Of course, there is a bunch of software that do the same out there and actually I use the built-in function renaming in Lightoom since ages ago but only for pictures. 
-
-As I sort out my drones videos' files in the finder, I wanted a soft that could do the job for me in no time.
+</br>
+</br>
+But, as I sort out my drones videos' files in the finder, I wanted a soft that could do the job for me in no time.This just make every single video file unique.
+</br>
+</br>
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files_sort.png" alt="Screenshot" width="480" height="320">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,8 +88,9 @@ As I sort out my drones videos' files in the finder, I wanted a soft that could 
 ### Built With
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
-
-[![Tkinter](https://github.com/gelndjj/Timestamp-Rename/blob/main/ctk_icon.png)](https://customtkinter.tomschimansky.com)
+<a href="https://customtkinter.tomschimansky.com">
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/ctk_icon.png" alt="Icon" width="40" height="40">
+</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

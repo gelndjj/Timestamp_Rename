@@ -65,7 +65,8 @@
 
 ![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png)
 
-Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much. 
+Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much.
+</br> 
 ![Screenshot](https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files_small.png)
 
 So, I wrote this small python script that allows me to rename files according to the Creation Date present in the metadata file.

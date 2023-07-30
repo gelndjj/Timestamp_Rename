@@ -64,7 +64,6 @@
 ## About The Project
 <div align="center">
 <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="600" height="600">
-</div>
 </br>
 Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much.
 </br> 
@@ -76,8 +75,10 @@ Of course, there is a bunch of software that do the same out there and actually 
 </br>
 </br>
 As I sort out my drones videos' files in the finder, I wanted a soft that could do the job for me in no time.
+</br>
+</br>
 <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files_sort.png" alt="Screenshot" width="480" height="320">
-
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

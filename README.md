@@ -1,15 +1,5 @@
 <a name="readme-top"></a>
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 [![Contributors][contributors-shield]](https://github.com/gelndjj/Timestamp-Rename/graphs/contributors)
 [![Forks][forks-shield]](https://github.com/gelndjj/Timestamp-Rename/forks)
 [![Stargazers][stars-shield]](https://github.com/gelndjj/Timestamp-Rename/stargazers)

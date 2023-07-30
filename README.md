@@ -23,7 +23,6 @@
     <a href="https://github.com/gelndjj/Timestamp_Rename"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/gelndjj/Timestamp_Rename">View Demo</a>
     ·
     <a href="https://github.com/gelndjj/Timestamp_Rename/issues">Report Bug</a>
     ·

@@ -89,7 +89,8 @@ But, as I sort out my drones videos' files in the finder, I wanted a soft that c
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
 
-[![Tkinter](https://github.com/gelndjj/Timestamp-Rename/blob/main/ctk_icon.png)](https://customtkinter.tomschimansky.com)
+<a href="[https://github.com/gelndjj/Timestamp-Rename](https://customtkinter.tomschimansky.com)">
+<img src="https://github.com/gelndjj/Timestamp-Rename/blob/main/ctk_icon.png" alt="Icon" width="40" height="40">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

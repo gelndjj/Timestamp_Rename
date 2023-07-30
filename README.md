@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/gelndjj/Timestamp-Rename">
+  <a href="https://github.com/gelndjj/Timestamp_Rename">
     <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/image.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A simple way to rename your image/video files by Creation Date !
     <br />
-    <a href="https://github.com/gelndjj/Timestamp-Rename"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gelndjj/Timestamp_Rename"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/gelndjj/Timestamp-Rename">View Demo</a>
+    <a href="https://github.com/gelndjj/Timestamp_Rename">View Demo</a>
     ·
-    <a href="https://github.com/gelndjj/Timestamp-Rename/issues">Report Bug</a>
+    <a href="https://github.com/gelndjj/Timestamp_Rename/issues">Report Bug</a>
     ·
-    <a href="https://github.com/gelndjj/Timestamp-Rename/issues">Request Feature</a>
+    <a href="https://github.com/gelndjj/Timestamp_Rename/issues">Request Feature</a>
   </p>
 </div>
 

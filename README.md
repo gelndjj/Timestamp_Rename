@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]](https://github.com/gelndjj/Timestamp-Rename/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/gelndjj/Timestamp-Rename/forks)
-[![Stargazers][stars-shield]](https://github.com/gelndjj/Timestamp-Rename/stargazers)
-[![Issues][issues-shield]](https://github.com/gelndjj/Timestamp-Rename/issues)
-[![MIT License][license-shield]](https://github.com/gelndjj/Timestamp-Rename/blob/main/LICENSE)
+[![Contributors][contributors-shield]](https://github.com/gelndjj/Timestamp_Rename/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/gelndjj/Timestamp_Rename/forks)
+[![Stargazers][stars-shield]](https://github.com/gelndjj/Timestamp_Rename/stargazers)
+[![Issues][issues-shield]](https://github.com/gelndjj/Timestamp_Rename/issues)
+[![MIT License][license-shield]](https://github.com/gelndjj/Timestamp_Rename/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathanduthil/)
 
 
@@ -142,7 +142,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more inf
 ## Contact
 
 
-[LinkedIn](https://github.com/gelndjj/Timestamp-Rename)
+[LinkedIn](https://www.linkedin.com/in/jonathanduthil/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

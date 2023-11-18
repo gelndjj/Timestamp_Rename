@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="400" height="300">
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="500" height="400">
 </br>
 Timestamp Rename is a versatile and user-friendly Python application, equipped with a graphical user interface (GUI), designed to simplify the process of renaming video files. Utilizing metadata information, specifically the creation date of the files, it offers a unique and efficient way to organize your video files.
 </br>
@@ -86,7 +86,7 @@ The "Create Folder by Day" checkbox put the files inside folder according to the
 </br>
 
 https://github.com/gelndjj/Timestamp_Rename/assets/81557672/80c9db3d-292e-4a8b-ada2-d4943ff1fd6f
-</br>
+
 <!-- GETTING STARTED -->
 ## Standalone APP
 

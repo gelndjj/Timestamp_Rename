@@ -57,17 +57,14 @@
 <div align="center">
 <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/main_windows.png" alt="Logo" width="600" height="500">
 </br>
-Flying around is one of my favorite hobby and I often cope with drone's videos renaming on my spare time 'cause my drones have a specific way to rename files that I don't like much.
+Timestamp Rename is a versatile and user-friendly Python application, equipped with a graphical user interface (GUI), designed to simplify the process of renaming video files. Utilizing metadata information, specifically the creation date of the files, it offers a unique and efficient way to organize your video files.
 </br> 
 </br>
 <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files.png" alt="Screenshot" width="480" height="320">
 </br>
 </br>
-So, I wrote a small python script that allows me to rename files according to the Creation Date present in the metadata.
-Of course, there is a bunch of software that do the same out there and actually I use the built-in function renaming in Lightoom since ages ago but only for pictures. 
+The application stands out with its capacity to handle various timestamp formats and offers customization features like preserving the original file name or organizing files into day-specific folders. Built with Python and leveraging libraries like tkinter, it presents a robust solution for both personal and professional file management needs.
 </br>
-</br>
-But, as I sort out my drones videos' files in the finder, I wanted a soft that could do the job for me in no time.This just make every single video file unique.
 </br>
 </br>
 <img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/drone_video_files_sort.png" alt="Screenshot" width="480" height="320">
@@ -75,20 +72,15 @@ But, as I sort out my drones videos' files in the finder, I wanted a soft that c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Built With
-
-<a href="https://www.python.org">
-<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/py_icon.png" alt="Icon" width="32" height="32">
-</a>
-&nbsp;
-<a href="https://customtkinter.tomschimansky.com">
-<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/ctk_icon.png" alt="Icon" width="32" height="32">
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+1. **Launch**: Run the script to open the GUI.</br></br>
+2. **Timestamp Format**: Select from various formats like "YYYYMMDD_HHMMSS" or "DD-MM-YY_HH-MM-SS".</br></br>
+3. **Renaming Options**:</br>
+Option to keep the original file name.</br>
+Create folders by the creation date for organization.</br></br>
+4. **Process**: Select a folder with video files, choose settings, and click "Rename Files". A success message confirms completion.
 
 Rename video files using the timestamp YYYYMMDD_HHMMSS which stand for "Year Month Day _ Hour Minute Second".
 </br>
@@ -136,7 +128,17 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more inf
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Built With
 
+<a href="https://www.python.org">
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/py_icon.png" alt="Icon" width="32" height="32">
+</a>
+&nbsp;
+<a href="https://customtkinter.tomschimansky.com">
+<img src="https://github.com/gelndjj/Timestamp_Rename/blob/main/resources/ctk_icon.png" alt="Icon" width="32" height="32">
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
